@@ -1,9 +1,9 @@
-# Build Your VPC and Launch a Web Server (AWS) 
+[# Build Your VPC and Launch a Web Server (AWS) 
 
 ## Author
 
-* **Name**:  R Abinav Kumar
-* **Register Number**: 212224210001
+* **Name**: Akash.S
+* **Register Number**: 212224213001
 * **Date of Submission**: 16/05/2026
 
 ---
@@ -120,3 +120,4 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 ## Result 
 This experiment successfully demonstrated the creation of a custom VPC and deployment of a public-facing web server in AWS. By configuring networking components such as subnets, route tables, and security groups, and by launching an EC2 instance with a web server, the basic architecture of a cloud-hosted application was understood.
+](https://github.com/akash2166/Blended-Labs-2025-26-Even/blob/main/EX.1%20Introduction%20to%20AWS%20IAM/README.md)
