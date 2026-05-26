@@ -2,10 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
-
+* **Name** S.AKASH
+* **Register Number**: 212224213001
+  
 ---
 
 ## Objective
